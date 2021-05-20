@@ -1,0 +1,27 @@
+.swipebuttons{
+    position:fixed;
+    bottom:10vh;
+      display :flex;
+      justify-content:space-between;
+      width:100%;
+
+}
+.swipebuttons .MuiIconButton-root{
+    background-color: #fff;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+.replay{
+    color: orange;
+}
+.close{
+    color: red;
+}
+.star{
+    color:blue;
+}
+.fav{
+    color: green;
+}
+.flash{
+    color:purple;
+}
